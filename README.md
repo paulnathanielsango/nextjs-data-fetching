@@ -7,4 +7,4 @@
 
 Learn more here in this documentation [Data Fetching Overview](https://nextjs.org/docs/basic-features/data-fetching/overview) by Next.js Team. 
 
-Repo: [next-data-fetching](https://github.com/paulnathanielsango/next-data-fetching)
+Repo: [next-data-fetching](https://github.com/paulnathanielsango/nextjs-data-fetching)
