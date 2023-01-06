@@ -27,7 +27,7 @@ export default function Home() {
         >
           <h1>Next.js Data Fetching Tutorial by Paul Nathaniel</h1>
           <h4>In this repository - you will learn basic data fetching using Next.js</h4>
-          <span>These methods are - Server sider rendering, static site generation, incremental static regeneration on basic react client-side rendering.</span>
+          <span>These methods are - client-side rendering, server side rendering, static site generation, incremental static regeneration on basic react client-side rendering.</span>
           <span>Learn more here in this documentation <a href="https://nextjs.org/docs/basic-features/data-fetching/overview">Data Fetching Overview by Next.js Team.</a></span>
         </div>
       </main>
